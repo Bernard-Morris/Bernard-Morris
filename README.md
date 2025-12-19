@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bernard Morris 
-- 👀 I'm interested in design-focused web/mobile development.
+- 👀 I'm interested in Full-Stack development.
 - 🌱 I’m currently enrolled at WGU for my BSSE 
 - 💞️ I want to collaborate on anything I can learn from or help.
 - 📫 How to reach me www.linkedin.com/in/bernard-morris-61a347297
