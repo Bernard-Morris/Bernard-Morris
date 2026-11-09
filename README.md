@@ -1,60 +1,41 @@
-# 👋 Hi, I'm Bernard Morris
+# Systems Software Engineer & Embedded Systems Enthusiast
 
-### 🚀 Software Engineering Student | Java & Full-Stack Developer
-
-I'm a **B.S. Software Engineering candidate at Western Governors University** (expected graduation **June 2027**), specializing in **Java, object-oriented design, and full-stack development**.
-
-With over a decade of professional systems troubleshooting, I approach software development with discipline, attention to detail, and a focus on building clean, maintainable solutions.
+**Focus:** Low-Level Architectures, Bare Metal C/C++, and Hardware Transparency
 
 ---
 
-### 🛠️ Tech Stack & Skills
-- **Core Languages:** Java (OOP, Collections, Concurrency), JavaScript/ES6+, TypeScript, SQL (MySQL)
-- **Frontend:** Angular, HTML5/CSS3, Responsive Design, Component Architecture
-- **Backend & Data:** REST API Integration, JPA basics, Data Modeling
-- **Tools:** Git/GitHub/GitLab, VS Code, IntelliJ IDEA, Maven, Postman
+### About Me
+
+I am a Software Engineering student at Western Governors University, committed to understanding the machine from silicon up. Transitioning from a background in complex field diagnostics and residential construction, I reject the trend of bloated abstractions. My focus is on building deterministic, high-efficiency systems where every byte of memory and clock cycle is accounted for.
 
 ---
 
-### 🏗️ Featured Projects
+### Technical Philosophy
 
-#### [Loot2D Game Engine](https://github.com/Bernard-Morris/Loot2D) *(Active – Completion targeted Q4 2026)*
-Custom 2D tile-based game engine built from scratch in Java.
-- Multi-threaded game loop and concurrency management
-- Integer-scaled rendering with Swing/AWT
-- Strict OOP principles and design patterns
-
-#### [Java Data Structures Portfolio](https://github.com/Bernard-Morris/java-data-structures-project) *(Active)*
-In-depth LinkedIn Learning course with personal enhancements.
-- Added standalone test drivers and detailed progress documentation
-- Professional Git practices and clean repository structure
-
-#### Interactive World Map Application *(Private – WGU Course Project)*
-Single-page Angular application built in VS Code.
-- Interactive SVG world map with event-driven country selection
-- Real-time data fetching from World Bank API via HttpClient
-- Component-based architecture and TypeScript typing  
-*Kept private per university academic integrity policy to prevent misuse — available for review upon request.*
-
-#### Washington State Information Site *(Private – WGU Course Project)*
-Responsive multi-page website developed from design to deployment.
-- Advanced CSS layouts (positioning, pseudo-classes, responsive grids)
-- Client-side form validation with custom JavaScript
-- Full-cycle UX documentation and milestone tracking  
-*Kept private per university policy — screenshots and details available upon request.*
+I believe true technical mastery requires bridging the gap between high-level logic and bare-metal execution. In an era dominated by rapid development over resource optimization, I strive to write code that respects the hardware.
 
 ---
 
-### 🎯 Goals Before Graduation (June 2027)
-- Complete **Loot2D** as a flagship low-level Java architecture project
-- Build and deploy a production-grade Spring Boot REST API with database integration and authentication
-- Strengthen enterprise Java ecosystem skills for technical interviews and professional roles
+### Private Showcase Repository (Not Publicly Accessible)
+
+To comply with academic integrity policies on solution distribution, I maintain the source code for my advanced systems projects in a private repository. This includes multi-threaded engines and memory-managed utilities designed for optimal throughput.
+
+**Viewing Access:** Hiring managers and technical recruiters interested in reviewing my systems architecture, debugging techniques, or code samples may contact me directly. I am happy to schedule a screen share or walkthrough during the interview process to demonstrate my proficiency in bare-metal concepts and memory management.
 
 ---
 
-### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/bernard-morris](https://www.linkedin.com/in/bernard-morris-61a347297)
-- **Email:** morrisbernard6@gmail.com
-- **GitHub:** github.com/Bernard-Morris
+### Software & Systems Development Projects
 
-*"I value honest learning, clean code, and building systems that last. Open to internships and collaboration."*
+**Multi-Threaded Localization Engine** | *Java 17, Multi-Threading, System Architecture*
+
+* Engineered a custom multi-threaded application integrating custom thread execution and real-time resource bundle parsing for global environments. This project demonstrated core competencies in thread safety, execution speed, and efficient memory utilization.
+
+**Interactive World Map Application** | *Angular, TypeScript, REST APIs, Asynchronous Programming*
+
+* Built a dynamic Single-Page Application leveraging component-based architecture to asynchronously query REST APIs and parse complex JSON payloads in real time.
+* Optimized user interface state management and asynchronous data parsing to minimize rendering latency and maintain responsive UI execution.
+
+**Systems & C/C++ Bare-Metal Exploration** | *C, C++, Microcontrollers, Memory Management*
+
+* Self-directed study of low-level programming concepts, focusing on direct memory allocation, hardware register manipulation, and sensor communication protocols.
+* Designed isolated test scripts to analyze execution overhead and understand how firmware abstracts hardware instructions.
